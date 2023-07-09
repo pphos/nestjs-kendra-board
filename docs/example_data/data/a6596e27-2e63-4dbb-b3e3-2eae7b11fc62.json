@@ -6,7 +6,5 @@
   "CreatedAt": "2023-07-09T12:34:56Z",
   "UpdatedAt": "2023-07-09T12:34:56Z",
   "Category": "自然",
-  "Likes": 50,
-  "Comments": 10,
   "ImageURL": "https://example.com/image1.jpg"
 }

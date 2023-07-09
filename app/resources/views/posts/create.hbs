@@ -1,0 +1,20 @@
+{{#> app}}
+{{#*inline "content"}}
+<form method="POST" action="/posts">
+  <div class="mb-3">
+    <label for="name" class="form-label">タイトル</label>
+    <input type="text" class="form-control" name="title" id="title" placeholder="タイトルを入力してください">
+  </div>
+  <div class="mb-3">
+    <label for="content" class="form-label">コンテンツ</label>
+    <textarea class="form-control" name="content" id="content" placeholder="投稿内容を入力してください"></textarea>
+  </div>
+  <div class="mb-3">
+    <label for="category" class="form-label">カテゴリー</label>
+    <input type="text" class="form-control" name="category" id="category" placeholder="カテゴリーを入力してください">
+  </div>
+  <button type="submit" class="btn btn-primary">作成</button>
+</form>
+</div>
+{{/inline}}
+{{/app}}

@@ -6,7 +6,5 @@
   "CreatedAt": "2023-07-08T15:20:00Z",
   "UpdatedAt": "2023-07-09T09:12:34Z",
   "Category": "飲食",
-  "Likes": 102,
-  "Comments": 25,
   "ImageURL": "https://example.com/image2.jpg"
 }

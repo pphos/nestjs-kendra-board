@@ -1,10 +1,12 @@
 import { Module } from '@nestjs/common';
 import { PostsController } from './posts.controller';
-import { SearchModule } from './search/search.module';
+import { PostRepository } from './posts.repository';
+import { SearchController, SearchService, SearchResponder } from './search';
+import { StoreController, StoreService } from './store';
 
 @Module({
-  controllers: [PostsController],
-  providers: [],
-  imports: [SearchModule],
+  controllers: [PostsController, SearchController, StoreController],
+  providers: [SearchService, StoreService, SearchResponder, PostRepository],
+  imports: [],
 })
 export class PostsModule {}
