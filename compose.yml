@@ -1,5 +1,5 @@
 services:
-  nest-ec2:
+  nest-kendra:
     build:
       context: .
     user: node
