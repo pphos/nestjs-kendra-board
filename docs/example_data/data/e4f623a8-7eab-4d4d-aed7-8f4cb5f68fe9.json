@@ -1,0 +1,12 @@
+{
+  "PostID": "e4f623a8-7eab-4d4d-aed7-8f4cb5f68fe9",
+  "UserID": "ef44af84-d06e-419e-8e19-587fb10697a4",
+  "Title": "おしゃれなカフェ",
+  "Content": "最近訪れたおしゃれなカフェの雰囲気をお伝えします。アンティーク家具があり、落ち着いた空間でくつろげます。",
+  "CreatedAt": "2023-07-06T16:02:40Z",
+  "UpdatedAt": "2023-07-09T11:23:45Z",
+  "Category": "飲食",
+  "Likes": 45,
+  "Comments": 8,
+  "ImageURL": "https://example.com/image4.jpg"
+}

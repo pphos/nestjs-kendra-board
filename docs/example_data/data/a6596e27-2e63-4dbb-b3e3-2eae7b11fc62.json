@@ -1,0 +1,12 @@
+{
+  "PostID": "a6596e27-2e63-4dbb-b3e3-2eae7b11fc62",
+  "UserID": "14b07b1a-3d50-4a26-b82d-4c31e704d2c5",
+  "Title": "素晴らしい景色",
+  "Content": "今日の散歩で見つけた美しい景色を共有します。青々とした草原と広がる空、遠くに連なる山々。心が癒されました。",
+  "CreatedAt": "2023-07-09T12:34:56Z",
+  "UpdatedAt": "2023-07-09T12:34:56Z",
+  "Category": "自然",
+  "Likes": 50,
+  "Comments": 10,
+  "ImageURL": "https://example.com/image1.jpg"
+}

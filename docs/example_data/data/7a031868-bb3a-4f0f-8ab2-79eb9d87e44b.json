@@ -1,0 +1,12 @@
+{
+  "PostID": "7a031868-bb3a-4f0f-8ab2-79eb9d87e44b",
+  "UserID": "4ab99e09-0d30-4320-8739-23b7f68eac7d",
+  "Title": "美味しいスイーツ",
+  "Content": "見た目も美しいスイーツの写真をシェアします。一番おすすめはチョコレートケーキです。絶品です！",
+  "CreatedAt": "2023-07-05T11:10:23Z",
+  "UpdatedAt": "2023-07-09T10:01:15Z",
+  "Category": "飲食",
+  "Likes": 96,
+  "Comments": 20,
+  "ImageURL": "https://example.com/image5.jpg"
+}

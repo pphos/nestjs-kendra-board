@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="/dist/app.css">
+  <script src="/dist/app.js"></script>
+
+  <title>Simple Kendra board</title>
+</head>
+
+<body>
+  <div id="app">
+    <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+      <div class="container">
+        <a href="#" class="navbar-brand">
+          Simple Kendra board
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <!-- Left Side Of Navbar -->
+          <ul class="navbar-nav me-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/server">一覧</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/server/create">作成</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/server/edit">編集</a>
+            </li>
+          </ul>
+          <!-- Right Side Of Navbar -->
+          <ul class="navbar-nav ms-auto">
+          </ul>
+      </div>
+    </nav>
+  </div>
+  <main class="container py-4">
+    {{> content}}
+  </main>
+</body>
+
+</html>

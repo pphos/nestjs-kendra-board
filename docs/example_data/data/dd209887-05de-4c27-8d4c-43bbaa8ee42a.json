@@ -1,0 +1,12 @@
+{
+  "PostID": "dd209887-05de-4c27-8d4c-43bbaa8ee42a",
+  "UserID": "c1578d14-b5f7-448b-8ed4-7e64e97d7844",
+  "Title": "映画の感想",
+  "Content": "最新の映画の感想とオススメポイントをレビューします。特にストーリー展開に驚きました！",
+  "CreatedAt": "2023-07-03T18:15:07Z",
+  "UpdatedAt": "2023-07-09T10:30:50Z",
+  "Category": "エンターテイメント",
+  "Likes": 34,
+  "Comments": 6,
+  "ImageURL": "https://example.com/image7.jpg"
+}

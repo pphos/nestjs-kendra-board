@@ -1,0 +1,27 @@
+{{#> app}}
+{{#*inline "content"}}
+<div class="row justify-content-center mt-3">
+  <div class="col-8">
+    <form method="POST" action="/posts/search">
+      <div class="input-group mb-3">
+        <input type="text" class="form-control form-control-lg" name="query" id="query" placeholder="Plese Input search words.">
+        <button type="submit" class="btn btn-primary" type="button">Search</button>
+      </div>
+    </form>
+  </div>
+</div>
+{{#each posts}}
+<div class="row justify-content-center mt-3">
+  <div class="col-8">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">{{this.title}}</h5>
+        <p class="card-text">{{this.text}}</p>
+        <a href="{{this.link}}" class="btn btn-outline-primary">View more</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{/each}}
+{{/inline}}
+{{/app}}

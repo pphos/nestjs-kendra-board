@@ -1,0 +1,12 @@
+{
+  "PostID": "c982bb82-1dc9-437f-b63c-41f8c28f8dbd",
+  "UserID": "7a24e0e1-6fcd-4b68-9c2b-6ed080d203cd",
+  "Title": "おすすめレストラン",
+  "Content": "最近行ったレストランのおすすめメニューを紹介します。特にお勧めはシェフ特製のパスタです。絶品です！",
+  "CreatedAt": "2023-07-08T15:20:00Z",
+  "UpdatedAt": "2023-07-09T09:12:34Z",
+  "Category": "飲食",
+  "Likes": 102,
+  "Comments": 25,
+  "ImageURL": "https://example.com/image2.jpg"
+}

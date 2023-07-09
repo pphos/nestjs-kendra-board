@@ -1,0 +1,12 @@
+{
+  "PostID": "b275f7f2-6b9e-4f6a-a108-0ad5fd8efb44",
+  "UserID": "8f8ed656-86ed-4e70-8bea-894b92058d4e",
+  "Title": "趣味の写真",
+  "Content": "趣味の写真撮影で撮った作品を共有します。自然や街の風景を中心に撮影しています。",
+  "CreatedAt": "2023-07-02T13:55:31Z",
+  "UpdatedAt": "2023-07-09T09:05:12Z",
+  "Category": "趣味",
+  "Likes": 58,
+  "Comments": 18,
+  "ImageURL": "https://example.com/image8.jpg"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "nestjs-kendra-board",
+  "private": true,
+  "description": "Amazon Kendra search app with Nest.js",
+  "workspaces": [
+    "app",
+    "frontend"
+  ]
+}

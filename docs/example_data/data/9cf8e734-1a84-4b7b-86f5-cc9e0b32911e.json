@@ -1,0 +1,12 @@
+{
+  "PostID": "9cf8e734-1a84-4b7b-86f5-cc9e0b32911e",
+  "UserID": "b4c3422a-5c62-4a7d-aedf-98868e9dc944",
+  "Title": "読書のおすすめ",
+  "Content": "最近読んだ本のおすすめポイントを紹介します。特にこの本は感動的で心に残りました。",
+  "CreatedAt": "2023-07-01T09:20:48Z",
+  "UpdatedAt": "2023-07-09T11:50:27Z",
+  "Category": "趣味",
+  "Likes": 92,
+  "Comments": 22,
+  "ImageURL": "https://example.com/image9.jpg"
+}

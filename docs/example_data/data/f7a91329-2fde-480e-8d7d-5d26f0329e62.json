@@ -1,0 +1,12 @@
+{
+  "PostID": "f7a91329-2fde-480e-8d7d-5d26f0329e62",
+  "UserID": "e40b9e76-441a-4a43-973d-7e31decb4d19",
+  "Title": "旅行の思い出",
+  "Content": "先月の旅行での思い出を共有します。美しい海と夕焼けに感動しました。ぜひ行ってみてください！",
+  "CreatedAt": "2023-07-07T09:45:12Z",
+  "UpdatedAt": "2023-07-09T07:55:21Z",
+  "Category": "旅行",
+  "Likes": 78,
+  "Comments": 15,
+  "ImageURL": "https://example.com/image3.jpg"
+}

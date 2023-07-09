@@ -1,0 +1,12 @@
+{
+  "PostID": "60f394b9-7b57-4d23-81d4-53072fdd4f5c",
+  "UserID": "e27aeb2f-65a1-4c8c-bfd4-4292c5f84564",
+  "Title": "お気に入りのアート",
+  "Content": "自宅に飾っているお気に入りのアート作品を紹介します。芸術の世界に浸れます。",
+  "CreatedAt": "2023-06-30T12:12:12Z",
+  "UpdatedAt": "2023-07-09T07:40:18Z",
+  "Category": "アート",
+  "Likes": 61,
+  "Comments": 14,
+  "ImageURL": "https://example.com/image10.jpg"
+}
